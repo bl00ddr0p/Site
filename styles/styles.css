@@ -1,0 +1,57 @@
+body {
+  background: #ffffff url("./../img/21.png") 0 0;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.content-wrapper {
+  width: 960px;
+  background: #ffffff 0 0;
+  box-shadow: 0px 0px 10px #696969;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  padding: 50px
+}
+
+h1 {
+  font-weight: bold;
+  margin-top: 0px;
+  text-align: left;
+  font-family: 'Parisienne';
+  font-size: 48px;
+  color: #010101;
+  line-height: 62px;
+}
+
+h2{
+  font-size: 16px;
+  margin-bottom: 50px;
+}
+
+.MateSC {
+  font-family: 'Mate SC';
+  font-stretch: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+}
+
+nav {
+  font-size: 14px;
+}
+
+a {
+  margin-right: 10px;
+  cursor: pointer
+}
+
+.underlined {
+  border-bottom-color: rgb(105, 105, 105);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+#main_content {
+  margin-top: 50px
+}
